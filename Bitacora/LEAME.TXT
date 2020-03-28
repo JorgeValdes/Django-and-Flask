@@ -1,0 +1,2 @@
+Un pequeño curso primeros pasos con python web , en este caso se trabaja con base 
+de datos sqlite3 donde se guardan mensaje y se trabaja en consola guarda eventos
